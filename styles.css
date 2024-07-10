@@ -1,0 +1,28 @@
+.change {
+    font-family: 'Gochi Hand', cursive;
+}
+.men {
+    font-size: 20px;
+}
+.change2,p {
+    font-family: 'Tilt Neon', cursive;
+
+}
+.main {
+    padding: 10px;
+    border-radius: 30px;
+    border-color: none;
+    font-size: 20px;
+}
+.main2 {
+    background-color: #F0EB8D;
+}
+.main3 {
+    background-color: #FFF2F2;
+} 
+.main4 {
+    background-color: #E5D1FA;
+}
+.main5 {
+    background-color: #D1FFF3;
+}
